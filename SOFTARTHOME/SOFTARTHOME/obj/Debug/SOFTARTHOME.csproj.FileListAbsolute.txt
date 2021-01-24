@@ -1,0 +1,48 @@
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\bin\Debug\SOFTARTHOME.exe.config
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\bin\Debug\SOFTARTHOME.exe
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\bin\Debug\SOFTARTHOME.pdb
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.csprojAssemblyReference.cache
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.Form1.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.Properties.Resources.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.csproj.GenerateResource.cache
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.csproj.CoreCompileInputs.cache
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.exe
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.pdb
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.YeniUrunEkle_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.ÜrünSil_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.UrunleriListele_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.UrunGuncelleme_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.YeniSatis_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.YeniAlim_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SiparisDefteri_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SatisHareketleri_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.csproj.ResolveComReference.cache
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SiparisCiktilari_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.AlimHareketleri_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.OzelEtiketCikti_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SatisSil_form.resources
+C:\Users\mwidg\source\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SiparisGuncelle_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\bin\Debug\SOFTARTHOME.exe.config
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\bin\Debug\SOFTARTHOME.exe
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\bin\Debug\SOFTARTHOME.pdb
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.csprojAssemblyReference.cache
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.csproj.ResolveComReference.cache
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.AlimHareketleri_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.Form1.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.OzelEtiketCikti_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.Properties.Resources.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SatisHareketleri_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SatisSil_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SiparisCiktilari_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SiparisDefteri_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.SiparisGuncelle_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.UrunGuncelleme_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.UrunleriListele_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.YeniAlim_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.YeniSatis_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.YeniUrunEkle_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.ÜrünSil_form.resources
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.csproj.GenerateResource.cache
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.csproj.CoreCompileInputs.cache
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.exe
+C:\Users\mwidg\OneDrive\Masaüstü\gereksiz 2\repos\SOFTARTHOME\SOFTARTHOME\obj\Debug\SOFTARTHOME.pdb
